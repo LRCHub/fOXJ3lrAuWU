@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "りこりすめもりあ",
+  "base_artist": "とりぴよ",
+  "createdAt": "2026-02-12T13:38:27.687914Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "りこりすめもりあ",
+      "artist": "とりぴよ feat. v4 flower",
+      "has_synced": false,
+      "path": "select/pl_01_りこりすめもりあ_とりぴよ_feat._v4_flower.txt"
+    }
+  ]
+}
